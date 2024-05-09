@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<Tale id="1" type="Core">
+    <Requirements>
+    </Requirements>
+    <Lines>
+        <Line>
+            <Text>{w=2}Lucky I spotted you mate. It's bloody awful out there right now. You heading home? </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">Cool cool, it shouldn't take too long to get there.</Response>
+                <Response type="Disagree" text = "hmm">... no stress mate, it won't take long to get there.</Response>
+                <Response type="Silent" text = "..." isDefault="true">All good mate, it won't take us long.</Response>
+            </Responses>
+        </Line>
+        <Line>
+            <Text>I'll try and drop you off as close as possible when we get there, save you getting too wet. </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">All part of the service mate.</Response>
+                <Response type="Disagree" text = "hmm">I know, I know. With this rain it might not help much. But it's worth a try.</Response>
+                <Response type="Silent" text = "..." isDefault="true">Not sure how much it'll help with this rain but worth a try right? Right.</Response>
+            </Responses>
+        </Line>
+        <Line>
+            <Text>I hope your place is good and dry, rain like this can be a bloody nightmare. My old place was hell on nights like this. </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">Yeah, I mean I love the rain but I love it more when it's not {i}inside{/i} my house.</Response>
+                <Response type="Disagree" text = "hmm">I know, I know. It's already raining and now you're hearing a story about rain but hear me out.</Response>
+                <Response type="Silent" text = "..." isDefault="true">So .... yeah, rain like this was really bad.</Response>
+            </Responses>
+        </Line>
+        <Line>
+            <Text>So what you need to know first is my place was on the third floor in a big building and the entry was off a long corridor. </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">Exactly ... not the kinda place you expect to have issues with rain.</Response>
+                <Response type="Disagree" text = "hmm">It wasn't anything fancy. It was a fairly small place and the building had a lot of places.</Response>
+                <Response type="Silent" text = "..." isDefault="true">Yeah, was kind of a cool setup. Was like a building within a building.</Response>
+            </Responses>
+        </Line>
+        <Line>
+            <Text>The second thing you need to know is they were lazy with building this place. The stairs had no cover and the corridor sloped {i}down{/i} from the stairs. </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">Yep, you can probably guess where this is going.</Response>
+                <Response type="Disagree" text = "hmm">Exactly, real shit design.</Response>
+                <Response type="Silent" text = "..." isDefault="true">Don't worry this story is going somewhere.</Response>
+            </Responses>
+        </Line>
+        <Line>
+            <Text>So anyway a huge storm hits one night and water buckets down the stairs ... up the corridor ... and all the way into my place through the front door. </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">Yeah, pretty predictable with the setup. This wasn't even a new building.</Response>
+                <Response type="Disagree" text = "hmm">Yeah, total mess. Huge amounts of water and more kept coming in.</Response>
+                <Response type="Silent" text = "..." isDefault="true">Definitely not a good start to the evening.</Response>
+            </Responses>
+        </Line>
+        <Line>
+            <Text>So the place floods but I manage to clean things up. But it doesn't end there. Turns out I got lucky with just water through the front door. </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">Yeah, wait till you hear this next bit and you'll see how lucky.</Response>
+                <Response type="Disagree" text = "hmm">Oh trust me it was lucky.</Response>
+                <Response type="Silent" text = "..." isDefault="true">Yep, sounds ridiculous but it really was lucky.</Response>
+            </Responses>
+        </Line>
+        <Line>
+            <Text>So lots of places in the building got flooded and they started investigating. Not just that though ... they started testing the concrete on the balconies, including mine. </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">Seriously, they were drilling {i}into{/i} the concrete to test it.</Response>
+                <Response type="Disagree" text = "hmm">Yep, {i}never{/i} a good sign when they start testing concrete.</Response>
+                <Response type="Silent" text = "..." isDefault="true">Yeah, I didn't really know what to make of it.</Response>
+            </Responses>
+        </Line>
+        <Line>
+            <Text>So on my balcony they found a lot of water in the concrete. I don't know concrete but that seems bad. </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">Exactly, I'm pretty sure once it's dry the water is supposed to be on the outside.</Response>
+                <Response type="Disagree" text = "hmm">That's my thinking ... seemed like something was real fucked.</Response>
+                <Response type="Silent" text = "..." isDefault="true">Oh and it didn't stop there.</Response>
+            </Responses>
+        </Line>
+        <Line>
+            <Text>So they didn't patch the balcony up after testing it and I took a close look. I could break the concrete ... with ... my ... hands. </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">Yeah, I mean I'm not that strong and I'm pretty sure it shouldn't do that.</Response>
+                <Response type="Disagree" text = "hmm">Yeah, on the one hand cool I can break concrete. On the other hand that's the damn balcony.</Response>
+                <Response type="Silent" text = "..." isDefault="true">Yeah, was bizarre as fuck it took me a minute to realise what it meant.</Response>
+            </Responses>
+        </Line>    
+        <Line>
+            <Text>I left that place not long after that and never went out on the balcony if I could help it. I didn't trust it. </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">I mean who would right? I've seen Final Destination, I don't want to fall through a balcony.</Response>
+                <Response type="Disagree" text = "hmm">I know, probably over cautious but I didn't want to take the risk.</Response>
+                <Response type="Silent" text = "..." isDefault="true">Probably over cautious but better that than a me sized hole in the balcony.</Response>
+            </Responses>
+        </Line>
+        <Line>
+            <Text>I did hear they eventually fixed the building but that was several years later. Fuck knows why they took so long. </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">Yeah, you'd think with balconies breaking apart like that they'd have fixed it sooner.</Response>
+                <Response type="Disagree" text = "hmm">Yeah, I think there was a lot of stupid fighting over who'd pay for it.</Response>
+                <Response type="Silent" text = "..." isDefault="true">If you ask me there was too much fighting over who'd pay for it.</Response>
+            </Responses>
+        </Line>    
+        <Line>
+            <Text>Cool, looks like we're nearly there. I was hoping the rain would have eased but no such luck. You'll probably need to sprint. </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">I'll pull up as close as possible, make the distance as short as I can.</Response>
+                <Response type="Disagree" text = "hmm">I know, it's a hassle but I'll do what I can to get close to cover.</Response>
+                <Response type="Silent" text = "..." isDefault="true">Maybe you'll be lucky and it'll ease up a bit before we get there.</Response>
+            </Responses>
+        </Line>
+        <Line>
+            <Text>Alright, it's just up ahead. Next time you need a ride give me a shout okay? I need to tell you about some of the stories my mate has told me. </Text>
+            <Responses>
+                <Response type="Agree" text = "mhmm">Trust me, it's got everything. Drama, mystery, conflict.</Response>
+                <Response type="Disagree" text = "hmm">I know, but trust me it's more interesting than it sounds.</Response>
+                <Response type="Silent" text = "..." isDefault="true">That's for next time though.</Response>
+            </Responses>
+        </Line>    
+    </Lines>
+</Tale>
