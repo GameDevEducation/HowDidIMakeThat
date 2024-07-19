@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20d424c52a88baf4baa3baa6e3f63328, type: 3}
+  m_Name: Block_Default_Middle
+  m_EditorClassIdentifier: 
+  <Zones>k__BackingField: 2
+  <bHasProportionLimits>k__BackingField: 0
+  <MinProportion>k__BackingField: 0
+  <MaxProportion>k__BackingField: 1
+  <bHasDepthLimits>k__BackingField: 0
+  <MinDepth>k__BackingField: 0
+  <MaxDepth>k__BackingField: 1
+  <DefaultTemplates>k__BackingField:
+  - <BlockPrefab>k__BackingField: {fileID: 94160888264324804, guid: 51a9096f9ad7d6b4391abe64f6fe63fb,
+      type: 3}
+    <BlockMaterial>k__BackingField: {fileID: 2100000, guid: b52b1246cfc761e4fbd1835bb3c88a33,
+      type: 2}
+    <BlockVisualAsset>k__BackingField: {fileID: 11400000, guid: c479d1397734bdc49989696d0cb67289,
+      type: 2}
+  <BiomeOverrides>k__BackingField:
+    SerializedKeys: []
+    SerializedValues: []

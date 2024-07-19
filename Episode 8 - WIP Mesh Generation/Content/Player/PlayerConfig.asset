@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 237f0df86160eee4684f2aea5e353c02, type: 3}
+  m_Name: PlayerConfig
+  m_EditorClassIdentifier: 
+  <HorizontalAcceleration>k__BackingField: 40
+  <HorizontalDrag>k__BackingField: 1
+  <MaxHorizontalVelocity>k__BackingField: 30
+  <HorizontalCounterBoost>k__BackingField: 20
+  <VerticalAcceleration>k__BackingField: 20
+  <VerticalDrag>k__BackingField: 1
+  <MaxVerticalVelocity>k__BackingField: 20
+  <VerticalCounterBoost>k__BackingField: 20
+  <VelocityToRollScale>k__BackingField: 2

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b7d615ed57e08545b5f2b61f7e90a43, type: 3}
+  m_Name: CoordinatorConfig
+  m_EditorClassIdentifier: 
+  <CeilingMinHeight>k__BackingField: 5
+  <CeilingMaxHeight>k__BackingField: 15
+  <FloorMinHeight>k__BackingField: 5
+  <FloorMaxHeight>k__BackingField: 15
+  <ColumnsPerSpan>k__BackingField: 10
+  <CellsPerColumn>k__BackingField: 60
+  <SpansAhead>k__BackingField: 10
+  <SpansBehind>k__BackingField: 10
+  <LowestCellDepth>k__BackingField: 4
+  <NoiseStepPerColumn>k__BackingField: 0.075
+  <ProgressionScale>k__BackingField: 1
+  <Blocks>k__BackingField:
+  - {fileID: 11400000, guid: 709c884d94133834c967e43e6c187749, type: 2}
+  - {fileID: 11400000, guid: c73bb8dfd78abff4cb2c6e5429aaf3d0, type: 2}
+  - {fileID: 11400000, guid: 10ad9b26f4b3c404d804b2f622860a27, type: 2}
+  <Biomes>k__BackingField:
+  - {fileID: 11400000, guid: 2ea9fb5b2e6b0f640b117c25f5544a25, type: 2}
+  - {fileID: 11400000, guid: 506a23441435ac442893f83db02e25bf, type: 2}
+  - {fileID: 11400000, guid: 442c7149af868af47801defa2dcad448, type: 2}
+  - {fileID: 11400000, guid: bc698b296f5d72943a54802f2bc6513e, type: 2}
+  - {fileID: 11400000, guid: d0fa843c2d0d38e47b31ff6e4c4f3796, type: 2}
+  <BlockMaterial>k__BackingField: {fileID: 2100000, guid: 1bc3e7a610b5ace4f9140a9556e751f1,
+    type: 2}
+  <BaseMovementSpeed>k__BackingField: 20
+  <MaximumSpanOffsetBeforeSpawning>k__BackingField: 1
