@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2da695d8b235354e9f22b2e3d792b43, type: 3}
+  m_Name: Weather_HeavyRain
+  m_EditorClassIdentifier: 
+  WeatherName: Heavy Rain
+  FadeInTime: 10
+  Sky: 3
+  EnableRain: 1
+  RainIntensity: 0.75
+  RainFluctuation: 0.1
+  RainFluctuationPeriod: 30
+  EnableHail: 0
+  HailIntensity: 0.5
+  HailFluctuation: 0.1
+  HailFluctuationPeriod: 30
+  EnableLightning: 0
+  LightningIntensity: 0.5
+  LightningFluctuation: 0.1
+  LightningFluctuationPeriod: 30
+  EnableSnow: 0
+  SnowIntensity: 0.5
+  SnowFluctuation: 0.1
+  SnowFluctuationPeriod: 30
+  EnableFog: 1
+  FogIntensity: 0.5
+  FogFluctuation: 0.1
+  FogFluctuationPeriod: 30
